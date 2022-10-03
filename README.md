@@ -17,4 +17,5 @@ Below is the filestructure. A in sky130A indicates a variant. for simplicity sin
 Designing NPN on die
 ![image](https://user-images.githubusercontent.com/16399079/193623473-fc0d6d10-1363-4111-9eb0-e3f43937d622.png)
 Resistors can be designed by poly or diffusions. poly is the best choice. Discrete widths are available for usage. So resitances are to be careflly calculated.  Certain ready made FETs are made available as GDS files which designers should use as is.
+![image](https://user-images.githubusercontent.com/16399079/193625354-4458178b-4117-42a2-b7b6-1c04acdd2195.png)
 
