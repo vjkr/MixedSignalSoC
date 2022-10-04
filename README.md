@@ -44,3 +44,13 @@ see makerchip ngveri
 ![image](https://user-images.githubusercontent.com/16399079/193731863-a38e0536-0a24-48d5-95ae-209cbf5e1620.png)
 aFTER removing lint errors and observing tlv file which has random numbers tested. results below
 ![image](https://user-images.githubusercontent.com/16399079/193735567-2509c64c-bf35-4261-ad4a-10c8b4cb4574.png)
+also got results for counter
+![image](https://user-images.githubusercontent.com/16399079/193785019-86b0b097-5341-4d3d-92b3-635a1b072784.png)
+
+verilog to ngspice conversion successful. Not sure where the file is!
+![image](https://user-images.githubusercontent.com/16399079/193788127-83f2ce65-cac3-4ab3-bb0a-8f0d82221427.png)
+completed drawing this on schematic using our own counter!!
+![image](https://user-images.githubusercontent.com/16399079/193797951-2fbf341b-0100-480c-b7e0-620fbb155b4c.png)
+
+
+
